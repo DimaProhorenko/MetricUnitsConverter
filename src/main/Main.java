@@ -3,7 +3,7 @@ import java.util.Random;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Main");
+        System.out.println("Main.Merge Conflict");
         Random rand = new Random();
         testConverter(rand);
 
